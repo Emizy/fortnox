@@ -1,0 +1,10 @@
+.idea/*
+media/*
+venv/*
+*__pycache__*
+.idea/clarklab.iml
+.env
+.idea/inspectionProfiles
+.idea/misc.xml
+.idea/modules.xml
+/sync_config.json
